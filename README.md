@@ -2,7 +2,7 @@
 
 📊 **Exciting Insights from Telecom Churn Data!** 🚀
 
-Just dove into the Telecom Churn dataset on Kaggle (check it out: [link](your_kaggle_dataset_link))! 📈 My key focus areas:
+Just dove into the Telecom Churn dataset on Kaggle (check it out: [link](https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets))! 📈 My key focus areas:
 
 1️⃣ **Churn by State:**
    Unveiling which state has the highest churn rate. 🗺️
